@@ -1,5 +1,5 @@
 // ...existing code...
-const WS_URL = 'wss://caverned-sorcery-jj5qp54pv7gxc595.github.dev'
+const WS_URL = 'wss://caverned-sorcery-jj5qp54pv7gxc595-3000.app.github.dev/'
 
 let ws = null;
 let myId = null;
